@@ -1,0 +1,5 @@
+1. The terminal is a tool let allows a user to work the operating system in a computer. Allows a multitude of things such as running files, adding files, and running commands. 
+
+2. Git = version control system meaning that you can track changes, go back to old versions of code on your local computer. Github is the online place where you can upload code and share it with other/collab
+
+3. You have to press the Fork button on the repository page on Github. 
